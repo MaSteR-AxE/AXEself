@@ -1,4 +1,4 @@
-# [BDSelf v3.0](https://telegram.me/BeyondTeam)
+# [BDSelf v3.0](https://telegram.me/BeyondTeam) ### Edited by AxE
 
 Professional Self-Bot Based On NEW TG-CLI
 
@@ -20,8 +20,8 @@ Professional Self-Bot Based On NEW TG-CLI
 ```sh
 # Let's install the self-bot.
 cd $HOME
-git clone https://github.com/BeyondTeam/BDSelf.git
-cd BDSelf
+git clone https://github.com/MaSteR-AxE/AXEself.git
+cd AXEself
 chmod +x beyond.sh
 ./beyond.sh install
 ./beyond.sh # Enter a phone number & confirmation code.
@@ -29,7 +29,7 @@ chmod +x beyond.sh
 ### One command
 To install everything in one command, use:
 ```sh
-cd $HOME && git clone https://github.com/BeyondTeam/BDSelf.git && cd BDSelf && chmod +x beyond.sh && ./beyond.sh install && ./beyond.sh
+cd $HOME && git clone https://github.com/MaSteR-AxE/AXEself.git && cd BDSelf && chmod +x beyond.sh && ./beyond.sh install && ./beyond.sh
 ```
 
 * * *
