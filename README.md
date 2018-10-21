@@ -68,6 +68,6 @@ More information [Beyond Development](https://telegram.me/joinchat/AAAAAD9JFZlM
 
 [@BeyondTeam](https://telegram.me/BeyondTeam)
 
-### EdiTeD By # AxE
+### EdiTeD By > AxE <
 [> telegram channel <](https://telegram.me/MaSteR_AxE)
 
