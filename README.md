@@ -1,4 +1,4 @@
-# [BDSelf v3.0](https://telegram.me/BeyondTeam) ### Edited by AxE
+# [BDSelf v3.0](https://telegram.me/BeyondTeam) Edited by [AxE](https://telegram.me/MaSteR_AxE)
 
 Professional Self-Bot Based On NEW TG-CLI
 
